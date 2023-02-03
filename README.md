@@ -1,16 +1,14 @@
-<p align='center'>
+<!-- <p align='center'>
   <img src='https://user-images.githubusercontent.com/11247099/111864893-a457fd00-899e-11eb-9f05-f4b88987541d.png' alt='Vitesse - Opinionated Vite Starter Template' width='600'/>
-</p>
+</p> -->
 
-<h6 align='center'>
-<a href="https://vitesse-lite.netlify.app/">Live Demo</a>
-</h6>
-
-<h5 align='center'>
+<h2 align='center'>
 <b>Lightweight version of <a href="https://github.com/antfu/vitesse">Vitesse</a></b>
-</h5>
-<br>
+</h2>
 
+<h3 align='center'>
+<a href="https://zafaralam-vue-starter.netlify.app/">Live Demo</a>
+</h3>
 
 ## Features
 
@@ -30,6 +28,7 @@
 
 - 🦾 TypeScript, of course
 
+- ☁️ Deploy on Netlify, zero-config
 
 <br>
 
@@ -43,7 +42,6 @@ See [Vitesse](https://github.com/antfu/vitesse) for full featureset.
 - ~~SSG~~
 - ~~PWA~~
 - ~~Markdown~~
-- ~~☁️ Deploy on Netlify, zero-config~~
 
 ## Pre-packed
 
@@ -65,7 +63,7 @@ See [Vitesse](https://github.com/antfu/vitesse) for full featureset.
 - [`unplugin-vue-macros`](https://github.com/sxzz/unplugin-vue-macros) - Explore and extend more macros and syntax sugar to Vue.
 - [VueUse](https://github.com/antfu/vueuse) - collection of useful composition APIs
 
-## Try it now!
+## Try it now❗
 
 ### GitHub Template
 
