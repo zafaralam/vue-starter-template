@@ -44,3 +44,11 @@ const go = () => {
     </div>
   </div>
 </template>
+
+<route>
+{
+  meta: {
+    layout: "home"
+  }
+}
+</route>
